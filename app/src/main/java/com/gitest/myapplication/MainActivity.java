@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main_rename);
 
         // bug fixing release
+        //Release change last moment super important that 
     }
 }
